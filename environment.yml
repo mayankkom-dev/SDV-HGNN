@@ -1,4 +1,4 @@
-name: dsn
+name: sdv
 channels:
   - rdkit
   - pytorch
@@ -143,4 +143,4 @@ dependencies:
   - zeromq=4.3.4=h2531618_0
   - zlib=1.2.13=h166bdaf_4
   - zstd=1.5.5=hc292b87_0
-prefix: /home/mayank/miniconda3/envs/dsn
+prefix: /home/mayank/miniconda3/envs/sdv
