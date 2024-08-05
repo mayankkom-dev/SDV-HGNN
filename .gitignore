@@ -1,0 +1,13 @@
+hyperparam/ray_results/*
+variant-study/logs/*
+variant-study/saved_models/*
+exp/logs/*
+exp/saved_models/*
+hyperparam/ray_results_sdv/*
+exp/.vector_cache
+raw_data/drugbank/full_database.xml
+prep_data/adrecs/similarity_model.csv
+raw_data/pubchem/PubChem_compound.csv
+downloaded_models/mol2vec/model_300dim.pkl
+prep_data/adrecs/se_samevalue.csv
+to_delete/
